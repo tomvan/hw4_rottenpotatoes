@@ -1,0 +1,26 @@
+prometheus_movie:
+  id:  1
+  title:  Prometheus
+  rating:  R
+  release_date:  2012-06-08
+  director:  Ridley Scott
+
+alien_movie:
+  id:  2
+  title:  Alien
+  rating:  PG-13
+  release_date:  1979-05-25
+  director:  Ridley Scott
+
+heat_movie:
+  id:  3
+  title:  Heat
+  rating:  R
+  release_date:  Michael Mann
+
+blade_runner_movie:
+  id:  4
+  title:  Blade Runner
+  rating:  R
+  release_date:  1982-06-25
+  director:  Ridley Scott
